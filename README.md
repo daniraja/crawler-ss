@@ -2,7 +2,7 @@
 
 ## Fetch URLs
 
-### Installation WGET
+### Install WGET
 
 You'll need `wget` installed on your machine in order to continue. To check if it's already installed (if you're on Linux or a Mac, chances are you already have it) open Git Bash, Terminal, etc. and run the command: `$ wget`. 
 
