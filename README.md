@@ -13,6 +13,6 @@ If you receive an error message or command not found, you're probably on Windows
 
 ## Run script to fetch url
 
-`sh crawl.sh`
+`sh ./src/crawl.sh`
 
 ## Run selenium to get screenshots
