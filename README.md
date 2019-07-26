@@ -8,7 +8,7 @@
 *	Move `wget.exe` to `C:\Windows\System32\`
 
 ### Install nodejs
-> Downlad and install node from https://nodejs.org/en/
+> Download and install nodejs from https://nodejs.org/en/
 
 ### Install Protractor
 > `npm install -g protractor`
