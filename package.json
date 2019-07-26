@@ -1,0 +1,24 @@
+{
+  "name": "screenshot",
+  "version": "1.0.0",
+  "description": "capture all pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniraja/crawler-ss.git"
+  },
+  "author": "aruna daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniraja/crawler-ss/issues"
+  },
+  "homepage": "https://github.com/daniraja/crawler-ss#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "path": "^0.12.7",
+    "protractor": "^5.4.2"
+  }
+}
