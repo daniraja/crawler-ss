@@ -21,9 +21,16 @@ Update `HOME` & `DOMAINS` of the website to be crawled `./scripts/crawler.sh`
 > `sh ./scripts/crawler.sh`
 
 ## To take screenshots
+
+Open a `terminal` / `command prompt` and start `webdriver`
+
+> `webdriver-manager start`
+
+Open another `terminal` / `command prompt` and run script 
+
 > `npm install`
 
 > `npm run test`
 
-Check for the screenshots in `output/images/`
+Screenshots wil be captured in `output/images/`
 
