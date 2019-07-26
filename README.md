@@ -22,6 +22,8 @@ Update `HOME` & `DOMAINS` of the website to be crawled `./scripts/crawler.sh`
 
 ## To take screenshots
 > `npm install`
+
 > `npm run test`
+
 > Check for the screenshots in `./src/output/images/`
 
