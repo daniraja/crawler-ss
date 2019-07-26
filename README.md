@@ -1,4 +1,4 @@
-# To crawl and screenshot a website
+# To crawl and capture a website
 
 ## Fetch URLs
 
